@@ -1,7 +1,7 @@
 
 # Sport Events Processor - Codium zadanie
 
-Robustná konzolová aplikácia na spracovanie športových eventov a odds, s podporou paralelného spracovania, transakcií, merge operácií a bezpečným ukladaním do SQL Server databázy.
+Robustná konzolová aplikácia na spracovanie športových udalostí, s podporou paralelného spracovania a bezpečným ukladaním do SQL Server databázy.
 
 Projekt spúšťam príkazom:
 `dotnet run --project EventProcessor`
